@@ -1,1 +1,2 @@
-# volatility_nft
+# Volatility NFT
+As a part of the Web3Weekend Hackathon, I spent some time learning the basics of Solidity and how to think about the financial applications of NFTs. I was initially thinking of creating an NFT which changes both in colour and monetary value as BTC or ETH implied volatility changes. This project is incomplete and the code still needs to be fixed for the contract to work on main-net. 
